@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell: using the `head` function without checking for an empty list. The `bug.hs` file contains the erroneous code that causes a runtime exception.  The solution in `bugSolution.hs` demonstrates safe handling by using pattern matching or the `maybe` function.
